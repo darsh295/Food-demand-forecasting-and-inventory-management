@@ -26,7 +26,7 @@
 
 ## Demo of project and it's explanation
 
- - Youtube video: 
+ - Youtube video: https://youtu.be/Ti-FZwMjzf0
 
 
 ## Kaggle notebook of ML model
