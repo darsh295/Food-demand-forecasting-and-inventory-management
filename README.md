@@ -1,5 +1,5 @@
 
-# Food demand forecasting and Inventory management
+# Food demand forecasting and Inventory management system
 
 **Problem statement:**
 
@@ -36,7 +36,7 @@
 
 ## Contributors
  - Darshan Bhavsar : https://www.linkedin.com/in/darshan-bhavsar-93370721a/
- - Shreyas Jain : https://www.linkedin.com/in/shreyas-jain-2a00a51ab/ 
+ 
 ## Tech Stack
 
 **Frontend:** HTML, CSS, Javascript, Bootstrap
