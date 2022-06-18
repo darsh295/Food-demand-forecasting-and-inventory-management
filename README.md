@@ -9,11 +9,11 @@
 
 **Solution:**
 
- - We created website using an appropriate machine learning model, to forecast number of orders to gather raw materials for next few weeks.
+ - I created website using an appropriate machine learning model, to forecast number of orders to gather raw materials for next few weeks.
 
  - For this, a dataset having information about fulfilment center like city, area etc. and meal information like category, sub category, etc. is used.
 
- - We have used Gradient boost regression model for forecasting with training accuracy 92% and testing accuracy 83%.
+ - I have used Gradient boost regression model for forecasting with training accuracy 92% and testing accuracy 83%.
 
  - The prediction model is a generalized model which means other companies or services can rebuild this model according to their data and no one can use this model for their specific prediction as this is just a generalized model for research.
 
@@ -26,7 +26,7 @@
 
 ## Demo of project and it's explanation
 
- - Youtube video: 
+ - Youtube video: https://youtu.be/r331UAm00MA
 
 
 ## Kaggle notebook of ML model
