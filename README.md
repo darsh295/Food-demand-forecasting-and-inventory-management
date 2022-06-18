@@ -26,7 +26,7 @@
 
 ## Demo of project and it's explanation
 
- - Youtube video: https://youtu.be/Ti-FZwMjzf0
+ - Youtube video: 
 
 
 ## Kaggle notebook of ML model
@@ -34,7 +34,7 @@
  - Food demand forecasting: https://www.kaggle.com/code/darshanbhavsar/food-demand-forecasting
 
 
-## Contributors
+## Contributor
  - Darshan Bhavsar : https://www.linkedin.com/in/darshan-bhavsar-93370721a/
  
 ## Tech Stack
@@ -45,9 +45,7 @@
 
 **ML model:** Gradient boost regression model
 
-## Deployment
 
- - A website with forecasting feature is hosted at http://foodiepy.herokuapp.com/
 
 
 
